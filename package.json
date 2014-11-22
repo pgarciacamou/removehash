@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pgarciacamou/removehash/issues"
   },
-  "homepage": "https://github.com/pgarciacamou/removehash"
+  "homepage": "https://github.com/pgarciacamou/removehash",
+  "engines": {
+    "node": "0.10.x"
+  }
 }
