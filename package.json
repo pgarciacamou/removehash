@@ -18,5 +18,11 @@
   "homepage": "https://github.com/pgarciacamou/removehash",
   "engines": {
     "node": "0.10.x"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "dependencies": {
+    "express": "^4.10.2"
   }
 }
